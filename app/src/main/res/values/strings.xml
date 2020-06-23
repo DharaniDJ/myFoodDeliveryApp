@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fooddeliveryApp</string>
+    <string name="title">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="image">itemImage</string>
+</resources>
